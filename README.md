@@ -1,2 +1,2 @@
 # brieff
-News Mobile App
+React Native News Mobile App
